@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaleb Roncatti</h1>
-<h5 align="center">A passionate backend Python developer and data science student from Brazil</h5>
+<h5 align="center">A passionate backend Python developer and data science practitioner from Brazil</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
